@@ -53,20 +53,24 @@ if __name__ == "__main__":
     sentenceFile = open("sentences.txt", "r")
     sentences = sentenceFile.readlines()
     sentenceFile.close()
-    
+
     while(True):
-        file = open("sentenceRequest.txt", "r")
-        line = file.readline()
+        while(True):
+            file = open("sentenceRequest.txt", "r")
+            line = file.readline()
+            file.close()
+            if line:
+                break
+        
+        file = open("sentenceRequest.txt", "w")
         file.close()
-        if line:
+        
+        if line == "EXIT":
             break
-    
 
-    file = open("sentenceResponse.txt", "w")
-    file.write(makeSentence(line, sentences))
-    file.close()
+        file = open("sentenceResponse.txt", "w")
+        file.write(makeSentence(line, sentences))
+        file.close()
 
-    file = open("sentenceRequest.txt", "w")
-    file.close()
 
 
