@@ -1,0 +1,8 @@
+OPERAND1 girls and OPERAND2 boys took part in an art competition. In total there were RESULT girls and boys that took part in the art competition.
+Amy has OPERAND1 lemon sweets and OPERAND2 orange sweets. The total number of sweets amy has RESULT.
+There are OPERAND1 apples in each box, and there are OPERAND2 boxes, then we would have RESULT apples in the boxes. 
+Each chocolate bar costs $OPERAND1, and you bought OPERAND2 chocolate bars, in total the cost would be $RESULT
+Sara is inviting OPERAND1 friends to her party, and she only has OPERAND2 cookies; each person would get RESULT cookies. 
+Judy has OPERAND1 pencils and OPERAND2 pencil boxes. Each box would have RESULT pencils. 
+Maria has OPERAND1 skittles in the jar, and if she removes OPERAND2 skittles from the jars, she would have a total of RESULT skittles remaining. 
+There were OPERAND1 bananas in the morning. Jessica ate OPERAND2 bananas, which is why RESULT bananas were left by the end of the day. 
