@@ -18,5 +18,5 @@ To close the microservice, write "EXIT" in the "sentenceRequest.txt" file.
 Ex. <img width="367" alt="image" src="https://user-images.githubusercontent.com/79608516/217110883-d6b4aa20-3313-4c4e-b24e-d5f54b8fe8e2.png">
 
 
-
-
+## Workflow
+![CS361 Microservice UML](https://user-images.githubusercontent.com/79608516/217112090-26ecc927-cefe-44c1-8211-4fd9dbf83f79.png)
